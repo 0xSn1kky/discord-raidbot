@@ -11,7 +11,7 @@ pip3.8 install discord.py
 ```
 **__Установка кода:__**
 ```
-git install 
+git install https://github.com/0xSn1kky/discord-raidbot.git
 ```
 
 **Создайте бота и отредактируйте фаил config.py**
